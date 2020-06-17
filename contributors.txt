@@ -12,7 +12,7 @@ Name: Etoro Umoren. Slack Username: Itty
 Name: Tonye Nation. Slack username: @T.Nation
 Name: Babatunde Adedolapo.   Slack username: @dolapobabs
 Name: Jamilu Salisu   Slack username: @Jamilusalis
-Name: Olutoke Damola.   Slack username: adedamolaOlutoke
+Name: Olutoke Damola.  Slack username: adedamolaOlutoke
 Name: Marvellous Aigbe. Slack username: marvellous
 Name: Francis Uthman Kolapo. Slack Username: @iamfrankola
 Name: Osunlana Jesutofunmi. Slack username: @speak
